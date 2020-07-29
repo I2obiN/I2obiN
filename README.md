@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/YZ5Au0M.png" width=300px height=400px />
+<img align="right" src="https://i.imgur.com/YZ5Au0M.png" width=280px height=350px />
 
 # Hey 🦦
 
