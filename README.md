@@ -1,4 +1,3 @@
-<br/>
 <img align="right" src="https://i.imgur.com/YZ5Au0M.png" width=270px height=350px />
 
 # Hey 🦦
